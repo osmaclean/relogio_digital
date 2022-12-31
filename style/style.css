@@ -34,7 +34,7 @@ body {
     align-items: center;
     justify-content: center;
     color: aliceblue;
-    background: rgba(5, 5, 5, .9);
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
     border-radius: 7px;
     letter-spacing: 3px;
