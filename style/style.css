@@ -12,6 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .relogio {
@@ -47,13 +48,20 @@ body {
 }
 
 .relogio span.tempo {
-    font-size: 10px;
+    font-size: 15px;
+}
+
+.h1 {
+    margin: 50px 0px 0px 0px;
+    font-size: 25px;
 }
 
 
-
-
-
+.title {
+    margin: 0px 0px 30px 0px;
+    font-weight: bolder;
+    font-size: 50px;
+}
 
 
 
