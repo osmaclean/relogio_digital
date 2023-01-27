@@ -8,6 +8,12 @@
 
 <hr>
 
+## Link do Deploy (Vercel)
+
+https://relogio-digital-iota-two.vercel.app
+
+<hr>
+
 # IDE Utilizada
 
 <div> 
