@@ -6,6 +6,8 @@
 
 ![FireShot Capture 016 - Relógio Digital - 127 0 0 1](https://user-images.githubusercontent.com/115199808/210157681-34b19889-e0c3-49cd-b726-88b5fa1128fa.png)
 
+<hr>
+
 # IDE Utilizada
 
 <div> 
